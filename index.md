@@ -25,7 +25,15 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<iframe><video controls="" autoplay="1" src="https://ia801508.us.archive.org/10/items/tralka-tablero-trabajo/Tralka_tablero_trabajo.mp4" type="video/mp4" class="media-document mac video"></iframe>
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="https://archive.org/download/tralka-tablero-trabajo/tralka-tablero-trabajo.thumbs/Tralka_tablero_trabajo_000327.jpg">
+    <source src="https://ia801508.us.archive.org/10/items/tralka-tablero-trabajo/Tralka_tablero_trabajo.mp4" type="video/mp4">
+    <source src="path/to/video.ogg" type="video/ogg">
+    <source src="path/to/video.webm" type="video/webm">
+  </video>
+</figure>
+<!-- blank line -->
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
