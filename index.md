@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<div><video controls="" autoplay="1" src="https://ia801508.us.archive.org/10/items/tralka-tablero-trabajo/Tralka_tablero_trabajo.mp4" type="video/mp4" class="media-document mac video"></video></div> 
+<iframe><video controls="" autoplay="1" src="https://ia801508.us.archive.org/10/items/tralka-tablero-trabajo/Tralka_tablero_trabajo.mp4" type="video/mp4" class="media-document mac video"></iframe>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
