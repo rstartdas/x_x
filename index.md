@@ -25,9 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[![mycelia](https://res.cloudinary.com/marcomontalbano/image/upload/v1603154127/video_to_markdown/images/youtube--ZKf0TUzxX-U-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ZKf0TUzxX-U&t=1276s "mycelia")
-
-[![Alternate Text]({image-url})]({https://ia801508.us.archive.org/10/items/tralka-tablero-trabajo/Tralka_tablero_trabajo.mp4} "Link Title")
+<div><video controls="" autoplay="1" src="https://ia801508.us.archive.org/10/items/tralka-tablero-trabajo/Tralka_tablero_trabajo.mp4" type="video/mp4" class="media-document mac video"></video></div> 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
