@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[![Alternate Text]({image-url})]({https://ia801508.us.archive.org/10/items/tralka-tablero-trabajo/Tralka_tablero_trabajo.mp4} "Link Title")
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
