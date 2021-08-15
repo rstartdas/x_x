@@ -12,7 +12,7 @@ __  __   __  __
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# __  __   __  __
 ## Header 2
 ### Header 3
 
